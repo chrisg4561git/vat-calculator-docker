@@ -1,0 +1,2 @@
+image: chrisg4561docker/vat:<+pipeline.sequenceId>
+replicas: 1
